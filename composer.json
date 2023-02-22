@@ -1,0 +1,24 @@
+{
+    "name": "mfadlizein/greetrv3",
+    "autoload": {
+        "psr-4": {
+            "Mfadlizein\\Greetrv3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "M. Fadli Zein",
+            "email": "45892408+gzeinnumer@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "laravel/tinker": "^2.7",
+        "gzeinnumer/greetr": "^1.0"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/gzeinnumer/greetr"
+        }
+    ]
+}
